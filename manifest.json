@@ -1,7 +1,7 @@
 {
-  "name": "Habboon Automatic Flash Acceptance",
+  "name": "Cloudin automaattinen Flash-suoritus",
   "version": "1.0.1",
-  "description": "Automatically allows Flash player to run, rather than ask for permission each time.",
+  "description": "Automaattisesti Salli Flash joka kerta kun astut Hotelliin, sen sijaan että joka kerta sallisit erikseen.",
   "permissions": [
     "contentSettings"
   ],
