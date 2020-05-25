@@ -2,7 +2,7 @@
 
 chrome.runtime.onInstalled.addListener(function() {
     chrome.contentSettings.plugins.set({
-        'primaryPattern': '*://*.habboon.pw/*',
+        'primaryPattern': '*://*.cloudhotelli.net/*',
         'setting': 'allow',
         'scope': 'regular'
     });
